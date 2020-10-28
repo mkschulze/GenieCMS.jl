@@ -1,0 +1,7 @@
+name = "GenieCMS"
+uuid = "bd1378f2-40ea-402d-b02a-d34710fe1e69"
+authors = ["mks "]
+version = "0.1.0"
+
+[deps]
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
