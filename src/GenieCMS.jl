@@ -2,8 +2,6 @@ module GenieCMS
 
 greet() = print("Hello World!")
 
-end # module
-
 using Genie
 
 function install(dest::String; force = false)
