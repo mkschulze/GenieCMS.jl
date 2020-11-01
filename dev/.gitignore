@@ -7,7 +7,6 @@ log/*
 session/*
 !*.gitkeep
 Manifest.toml
-# dev
 
 # Vagrant
 .vagrant
@@ -38,7 +37,6 @@ Thumbs.db
 .vscode
 .tags*
 .tags
-
 
 # NPM packages folder.
 node_modules/
